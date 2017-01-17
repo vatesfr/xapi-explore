@@ -3,7 +3,7 @@ import execPromise from 'exec-promise'
 import minimist from 'minimist'
 import pw from 'pw'
 import { createClient } from 'xen-api'
-import { forEach, map } from 'lodash'
+import { forEach } from 'lodash'
 import { name, version } from '../package.json'
 
 // ===================================================================
