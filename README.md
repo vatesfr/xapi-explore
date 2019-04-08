@@ -35,13 +35,12 @@ Installation of the [npm package](https://npmjs.org/package/xapi-explore):
 
 ## Contributions
 
-Contributions are *very* welcomed, either on the documentation or on
+Contributions are _very_ welcomed, either on the documentation or on
 the code.
 
 You may:
 
-- report any [issue](https://github.com/vatesfr/xapi-explore/issues)
-  you've encountered;
+- report any [issue](https://github.com/vatesfr/xapi-explore/issues) you've encountered;
 - fork and create a pull request.
 
 ## License
